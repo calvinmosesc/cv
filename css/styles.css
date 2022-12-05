@@ -1,0 +1,23 @@
+.margin {
+  margin:2em;
+}
+
+body {
+  background-color: rgb(246, 246, 246);
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
